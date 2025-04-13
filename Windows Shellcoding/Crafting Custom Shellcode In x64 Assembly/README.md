@@ -2,7 +2,7 @@
 
 ## 🎥 Watch the Video
 
-👉 **YouTube Link**: [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+👉 **YouTube Link**: [![Watch the video](https://img.youtube.com/vi/9-CgePQP9Io/hqdefault.jpg)](https://www.youtube.com/watch?v=9-CgePQP9Io)
 
 This is **Episode 1** of the **Windows Shellcoding Series** — stay tuned for more advanced topics!
 
